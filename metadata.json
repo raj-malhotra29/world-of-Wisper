@@ -1,0 +1,6 @@
+{
+  "name": "World of Whisper",
+  "description": "A safe, anonymous storytelling and emotional support chat platform for mental well-being. Express yourself freely, read and filter confessions by emotional intent, reply with supportive reactions, text in private chats, and receive comforting AI whispers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
